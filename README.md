@@ -40,7 +40,12 @@ data summarization, and Power BI dashboarding for business insights.
 ---
 
 ## Key Insights
-- Overall revenue is growing by year. 53% of the revenue is city hotels.
+- Overall revenue is growing by year. 53% of the total revenue is city hotels.
 - With the parking percentage reflecting a steady average of 1% for city hotels and 3% for resort hotels.
   The parking lot size does not have enough evidence to support that it should be increased in size.
 - We can also see positive trends in the data such as the Average daily rate, Total nights stayed, and the Discounts.
+
+---
+
+## Files In This Repository 
+- [SQL Queries](https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/SQL_query1.png)(https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/SQL_query2.png)
