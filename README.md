@@ -35,3 +35,11 @@ data summarization, and Power BI dashboarding for business insights.
 
 ## Dashboard Preview
 ![Hotel_Revenue_Dashboard](https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI1.png)
+
+---
+
+## Key Insights
+- Overall revenue is growing by year
+-  With the parking percentage reflecting an average of 1% for city hotels and 3% for resort hotels.
+  The parking lot size does not have enough evidence to support that it should be increased in size.
+- 
