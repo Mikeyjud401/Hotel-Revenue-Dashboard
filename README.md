@@ -34,4 +34,4 @@ data summarization, and Power BI dashboarding for business insights.
 ---
 
 ## Dashboard Preview
-![Hotel_Revenue_Dashboard]("PowerBI1.png")
+![Hotel_Revenue_Dashboard](https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI1.png)
