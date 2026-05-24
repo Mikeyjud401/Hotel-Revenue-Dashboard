@@ -49,3 +49,5 @@ data summarization, and Power BI dashboarding for business insights.
 
 ## Files In This Repository 
 - [SQL Queries](https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/SQL_query1.png https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/SQL_query2.png)
+- [Dashboard Screenshots](https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI1.png https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI2.png https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI3.png https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI4.png https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI5.png https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/PowerBI6.png)
+- [Interactive PowerBI Dashboard] (https://github.com/Mikeyjud401/Hotel-Revenue-Dashboard/blob/main/hotelSQLdata.pbix)
