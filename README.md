@@ -23,6 +23,7 @@ data summarization, and Power BI dashboarding for business insights.
 - Hotel Type
 - Parking Percentage
 - Average Daily Rate
+- Total Nights Stayed
 
 ---
 
@@ -39,7 +40,7 @@ data summarization, and Power BI dashboarding for business insights.
 ---
 
 ## Key Insights
-- Overall revenue is growing by year
--  With the parking percentage reflecting an average of 1% for city hotels and 3% for resort hotels.
+- Overall revenue is growing by year.
+- With the parking percentage reflecting a steady average of 1% for city hotels and 3% for resort hotels.
   The parking lot size does not have enough evidence to support that it should be increased in size.
-- 
+- We can also see positive trends in the data such as the Average daily rate, Total nights stayed, and the discounts.
